@@ -1,4 +1,4 @@
-# ACM at FSU — Website
+# ACMatFSU Website
 
 This is a showcase repository for the official website of the **Association for Computing Machinery (ACM) chapter at Florida State University**, live at [fsu.acm.org](https://fsu.acm.org).
 
