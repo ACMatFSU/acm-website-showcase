@@ -17,21 +17,39 @@ Suggested: store images in a `screenshots/` folder in this repo, then reference 
 -->
 
 ### Hero Section
-
+<img width="1512" height="860" alt="image" src="https://github.com/user-attachments/assets/efb44dd3-673b-4dc9-a4a9-c488049fcdab" />
 
 ### Initiatives Section
-
+<img width="1512" height="701" alt="image" src="https://github.com/user-attachments/assets/3fa4b7b2-16ea-48bf-bf15-9320c26e1945" />
 
 ### Leadership Section
-
+<img width="1512" height="845" alt="image" src="https://github.com/user-attachments/assets/1ce3bce0-ffb7-429d-b134-a908d3f4e61d" />
 
 ### Projects & Sponsors Sections
-
+<img width="1512" height="689" alt="image" src="https://github.com/user-attachments/assets/f33f4db6-30ef-4317-aba7-f2370ab12a15" />
 
 ### Get Involved Section
-
+<img width="1512" height="505" alt="image" src="https://github.com/user-attachments/assets/5280920d-90c6-4795-bebb-1129bd2e8863" />
 
 ---
+
+## 🙌 Contributors
+
+| Name | GitHub |
+|---|---|
+| Carter Rudolph | [@CarterRudolph2005](https://github.com/CarterRudolph2005) |
+| Thomas Hall | [@ThomasXiayu](https://github.com/ThomasXiayu) |
+| Amy Chen | [@Amy-01999](https://github.com/Amy-01999) |
+| Colton Bregoff | [@cbregoffid](https://github.com/cbregoffid) |
+| Phuong Nguyen | [@ptn23](https://github.com/ptn23) |
+| Bianca Blevins | [@nahible](https://github.com/nahible) |
+| Mikhail Sautkin | [@msautkin](https://github.com/msautkin) |
+| Sebastian Davalos | [@chumboooo](https://github.com/chumboooo) |
+| Alex Smith | [@alexbsmith5](https://github.com/alexbsmith5) |
+| Ivan Uribe | [@ivancuribe124](https://github.com/ivancuribe124) |
+
+<!-- Add rows for each contributor. Replace `username` with their actual GitHub handle. -->
+
 
 ## 🚀 Tech Stack
 
@@ -39,6 +57,9 @@ Suggested: store images in a `screenshots/` folder in this repo, then reference 
 - **[Tailwind CSS](https://tailwindcss.com/)** — Utility-first CSS framework for styling
 - **GitHub Actions** — CI/CD pipeline for automated builds and deployments
 - **JavaScript / HTML / CSS**
+
+## Project Workflow
+The site was built using an open-source-style collaborative workflow. Project Lead [Carter Rudolph](https://github.com/CarterRudolph2005) started by breaking the overall design down into discrete, well-scoped components, translating each one into a GitHub issue with deliberate priority and tags populated via the GitHub CLI. From there, the team worked issue-by-issue: developers picked up tagged issues and opened pull requests with their changes, while Project Leads [Carter Rudolph](https://github.com/CarterRudolph2005) and [Thomas Hall](https://github.com/ThomasXiayu) reviewed each PR and merged approved work into the codebase. This kept development organized, made priorities transparent to every contributor, and ensured code quality was maintained through peer review before merging.
 
 ## 🏗️ Project Structure
 
@@ -88,7 +109,7 @@ Suggested: store images in a `screenshots/` folder in this repo, then reference 
 └── README.md
 ```
 
-> `node_modules/` and `dist/` are omitted above (installed/generated locally — see [Getting Started](#️-getting-started)).
+> `node_modules/` and `dist/` are omitted above.
 
 ## 🔄 CI/CD Pipeline
 
