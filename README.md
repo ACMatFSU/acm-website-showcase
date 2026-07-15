@@ -59,7 +59,7 @@ Suggested: store images in a `screenshots/` folder in this repo, then reference 
 - **JavaScript / HTML / CSS**
 
 ## Project Workflow
-The site was built using an open-source-style collaborative workflow. Project Lead [Carter Rudolph](https://github.com/CarterRudolph2005) started by breaking the overall design down into discrete, well-scoped components, translating each one into a GitHub issue with deliberate priority and tags populated via the GitHub CLI. From there, the team worked issue-by-issue: developers picked up tagged issues and opened pull requests with their changes, while Project Leads [Carter Rudolph](https://github.com/CarterRudolph2005) and [Thomas Hall](https://github.com/ThomasXiayu) reviewed each PR and merged approved work into the codebase. This kept development organized, made priorities transparent to every contributor, and ensured code quality was maintained through peer review before merging.
+The site was built using an open-source-style collaborative workflow. Project Leads [Carter Rudolph](https://github.com/CarterRudolph2005) and [Thomas Hall](https://github.com/ThomasXiayu) started by breaking the overall design down into discrete, well-scoped components, translating each one into a GitHub issue with deliberate priority and tags populated via the GitHub CLI. From there, the team worked issue-by-issue: developers picked up tagged issues and opened pull requests with their changes, while the project leads reviewed each PR and merged approved work into the codebase. This kept development organized, made priorities transparent to every contributor, and ensured code quality was maintained through peer review before merging.
 
 ## 🏗️ Project Structure
 
